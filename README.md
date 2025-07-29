@@ -18,7 +18,7 @@ This Unreal Engine 5 project showcases a dynamic **Smoke Portal** visual effect 
 ```
 /Content/
   └── Portal/
-      ├── SmokePortalLevel.umap        # Level where portal is placed
+      ├── portal_testing.umap          # Level where portal is placed
       └── NS_SmokePortal               # Niagara System for portal effect
 ```
 
@@ -34,7 +34,7 @@ This Unreal Engine 5 project showcases a dynamic **Smoke Portal** visual effect 
    - ✅ Niagara Fluids
 5. Open the level at:
    ```
-   Content/Portal/SmokePortalLevel.umap
+   Content/Portal/portal_testing.umap
    ```
 6. Press **Play** to see the portal in action!
 
@@ -48,11 +48,6 @@ This Unreal Engine 5 project showcases a dynamic **Smoke Portal** visual effect 
 
 ---
 
-## 🎥 Preview
-
-> *(You can place a screenshot or GIF here later)*
-
----
 
 ## 📘 License
 
